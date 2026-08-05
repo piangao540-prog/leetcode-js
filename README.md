@@ -13,9 +13,9 @@
 
 Day 1(热身 + 双指针):
 - [x] [1. 两数之和](https://leetcode.cn/problems/two-sum/)(复习,已完成)
-- [ ] [344. 反转字符串](https://leetcode.cn/problems/reverse-string/)
-- [ ] [283. 移动零](https://leetcode.cn/problems/move-zeroes/)
-- [ ] [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)
+- [x] [344. 反转字符串](https://leetcode.cn/problems/reverse-string/)
+- [x] [283. 移动零](https://leetcode.cn/problems/move-zeroes/)
+- [x] [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)
 
 Day 2(字符串):
 - [ ] [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/)
@@ -44,16 +44,16 @@ Day 7(周末):复盘本周错题,把每题的思路/复杂度补进 index.js。
 
 Day 8(链表基础):
 - [x] [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)(复习,已完成)
-- [ ] [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
-- [ ] [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
+- [x] [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
+- [x] [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
 
 Day 9(链表进阶):
-- [ ] [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
-- [ ] [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
+- [x] [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
+- [x] [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
 Day 10(栈和队列):
-- [ ] [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)
+- [x] [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)
 - [ ] [155. 最小栈](https://leetcode.cn/problems/min-stack/)
 - [ ] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
 
@@ -62,7 +62,7 @@ Day 11(栈进阶):
 - [ ] [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)
 
 Day 12(二叉树基础):
-- [ ] [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+- [x] [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
 - [ ] [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
 - [ ] [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
 
@@ -134,3 +134,4 @@ Day 28(手写题 2):
 
 Day 29-30(模拟面试):
 - [ ] 每天随机抽 2 道前三周题目 + 1 道新题,按「说思路 -> 写代码 -> 讲复杂度」全流程模拟
+
