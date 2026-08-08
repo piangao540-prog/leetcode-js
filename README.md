@@ -1,4 +1,4 @@
-﻿# leetcode-js
+# leetcode-js
 
 我的 LeetCode 刷题记录(秋招冲刺版 · 前端)。
 
@@ -50,11 +50,11 @@ Day 8(链表基础):
 Day 9(链表进阶):
 - [x] [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/)
 - [x] [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
-- [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+- [x] [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
 Day 10(栈和队列):
 - [x] [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)
-- [ ] [155. 最小栈](https://leetcode.cn/problems/min-stack/)
+- [x] [155. 最小栈](https://leetcode.cn/problems/min-stack/)
 - [ ] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
 
 Day 11(栈进阶):
@@ -127,7 +127,7 @@ Day 26(位运算):
 - [ ] [169. 多数元素](https://leetcode.cn/problems/majority-element/)
 
 Day 27(手写题 1):
-- [ ] 防抖 / 节流 / 深拷贝
+- [x] 防抖 / 节流 / 深拷贝
 
 Day 28(手写题 2):
 - [ ] Promise.all / call / apply / bind / new / instanceof
