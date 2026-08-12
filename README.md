@@ -55,10 +55,10 @@ Day 9(链表进阶):
 Day 10(栈和队列):
 - [x] [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)
 - [x] [155. 最小栈](https://leetcode.cn/problems/min-stack/)
-- [ ] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
+- [x] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
 
 Day 11(栈进阶):
-- [ ] [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)
+- [x] [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/)
 - [ ] [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)
 
 Day 12(二叉树基础):
@@ -130,7 +130,7 @@ Day 27(手写题 1):
 - [x] 防抖 / 节流 / 深拷贝
 
 Day 28(手写题 2):
-- [ ] Promise.all / call / apply / bind / new / instanceof
+- [x] Promise.all / call / apply / bind / new / instanceof
 
 Day 29-30(模拟面试):
 - [ ] 每天随机抽 2 道前三周题目 + 1 道新题,按「说思路 -> 写代码 -> 讲复杂度」全流程模拟
