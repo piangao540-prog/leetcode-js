@@ -64,7 +64,7 @@ Day 11(栈进阶):
 Day 12(二叉树基础):
 - [x] [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
 - [x] [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
-- [ ] [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+- [x] [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
 
 Day 13(二叉树进阶):
 - [ ] [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
